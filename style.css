@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.middle{
+    text-align: center;
+    background-color: blue;
+}
+
+.width{
+    background-color: yellowgreen;
+}
+
+.text-success {
+	color: #e6cf1b !important;
+}
